@@ -1,5 +1,5 @@
 # Data analytics Federal Highway Police (PRF) 2021
-Análise dos dados da Polícia Rodoviária Federal referente ao ano de 2021.
+Análise dos dados da Polícia Rodoviária Federal referente ao ano de 2021, limitados ao estado de São Paulo (SP).
 
 --- 
 Os resultados apresentados aqui, podem ser analisados graficamente no [arquivo](https://github.com/WellersonPrenholato/data-analytics-PRF-2021/blob/main/PRF_2021.ipynb).
