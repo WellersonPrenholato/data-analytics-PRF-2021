@@ -1,4 +1,4 @@
-# 🚨🚔 Data analytics Federal Highway Police (PRF) 2021 🚨
+# 🚨🚔 Data analytics Federal Highway Police (PRF) 2021
 Análise dos dados da Polícia Rodoviária Federal referente ao ano de 2021, limitados ao estado de São Paulo (SP).
 
 --- 
